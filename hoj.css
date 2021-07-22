@@ -1,4 +1,4 @@
-@import url(../bootstrap/css/bootstrap.css);
+@import url(https://cdn.jsdelivr.net/gh/zhblue/hustoj/trunk/web/template/bs3/bootstrap.min.css);
 input{
    height:24px;
 }
